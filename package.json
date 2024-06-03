@@ -1,0 +1,19 @@
+{
+  "name": "asif_mak_nsimple_calculator",
+  "version": "2.0.2",
+  "description": "A simple calculator using TS, NodeJS, and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
